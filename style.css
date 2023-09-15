@@ -1,0 +1,23 @@
+body{
+    background-color:whitesmoke ;
+}
+
+.section{
+    background-color: black;
+    font-family: fantasy ;
+    display: flex;
+    justify-content:space-between ;
+    padding: 100px ;
+}
+
+.section img{
+    height: 300px ;
+}
+
+.section h1{
+    color: greenyellow;
+}
+
+.section p{
+    Color:white;
+}
